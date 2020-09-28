@@ -1,4 +1,4 @@
-#Practico de curación
+# Practico de curación
 
 Ejercicio de Limpieza - Guillermo Adolfo Coseani
 Ejercicio RSS
